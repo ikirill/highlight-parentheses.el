@@ -52,8 +52,6 @@
 ;;
 ;;; Code:
 
-(eval-when-compile (require 'cl))
-
 (defgroup highlight-parentheses nil
   "Highlight surrounding parentheses"
   :group 'faces
